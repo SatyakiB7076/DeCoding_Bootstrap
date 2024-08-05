@@ -1,6 +1,10 @@
 # Blog App
     Welcome to our Blog App! This web application is designed to provide users with a platform to read and create blogs, explore courses and tutorials, and interact with other users. Built using HTML, CSS, and Bootstrap, our app offers an intuitive interface and various features to enhance the user experience.
 
+## demo
+
+![Chat Application Screenshot](https://github.com/SatyakiB7076/TextUtils-React/blob/main/decoding.jpg)
+
 Features
 
     About Section: Learn more about our platform and its purpose.
